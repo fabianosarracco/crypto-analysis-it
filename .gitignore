@@ -1,0 +1,4 @@
+# Ignore generated data ...
+Data/*
+# ... except README
+!Data/README.md
